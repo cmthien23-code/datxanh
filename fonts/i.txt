@@ -1,0 +1,98 @@
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+
+<i class="fas fa-seedling"></i>        <!-- Logo chính -->
+<i class="fas fa-search"></i>          <!-- Tìm kiếm -->
+<i class="fas fa-chevron-down"></i>    <!-- Dropdown mũi tên -->
+
+<i class="fas fa-user-circle"></i>     <!-- Icon tài khoản -->
+<i class="fas fa-user"></i>            <!-- User đơn -->
+<i class="fas fa-user-check"></i>      <!-- Đã đăng nhập -->
+<i class="fas fa-sign-out-alt"></i>    <!-- Đăng xuất -->
+<i class="fas fa-user-plus"></i>       <!-- Đăng ký -->
+
+<i class="fas fa-money-bill-wave"></i> <!-- Quyên góp tiền -->
+<i class="fas fa-money-bill"></i>      <!-- Tiền mặt -->
+<i class="fas fa-university"></i>      <!-- Ngân hàng -->
+<i class="fas fa-credit-card"></i>     <!-- Thanh toán -->
+<i class="fas fa-wallet"></i>          <!-- Ví điện tử -->
+<i class="fas fa-mobile-alt"></i>      <!-- Mobile/Ví điện tử -->
+<i class="fas fa-handshake"></i>       <!-- Gặp mặt tiền mặt -->
+
+<i class="fas fa-tree"></i>            <!-- Cây xanh -->
+<i class="fas fa-seedling"></i>        <!-- Cây giống -->
+<i class="fas fa-leaf"></i>            <!-- Lá cây (search) -->
+
+<i class="fas fa-tools"></i>           <!-- Dụng cụ/Vật tư -->
+<i class="fas fa-box"></i>             <!-- Vật tư -->
+<i class="fas fa-hashtag"></i>         <!-- Số lượng -->
+
+<i class="fas fa-hands-helping"></i>   <!-- Tình nguyện -->
+<i class="fas fa-hand-holding-heart"></i> <!-- Quyên góp ngay -->
+<i class="fas fa-people-carry"></i>    <!-- Hậu cần -->
+
+<i class="fas fa-chart-line"></i>      <!-- Minh bạch tài chính -->
+<i class="fas fa-chart-bar"></i>       <!-- Biểu đồ tiến độ -->
+<i class="fas fa-file-invoice-dollar"></i> <!-- Báo cáo tài chính -->
+<i class="fas fa-calculator"></i>      <!-- Tính toán -->
+<i class="fas fa-list-ol"></i>         <!-- Danh sách hướng dẫn -->
+
+<i class="fas fa-user"></i>            <!-- Họ tên -->
+<i class="fas fa-envelope"></i>        <!-- Email -->
+<i class="fas fa-phone"></i>           <!-- Số điện thoại -->
+<i class="fas fa-building"></i>        <!-- Khoa/Đơn vị -->
+<i class="fas fa-sticky-note"></i>     <!-- Ghi chú -->
+<i class="fas fa-clock"></i>           <!-- Thời gian -->
+<i class="fas fa-user-tag"></i>        <!-- Kỹ năng -->
+<i class="fas fa-lock"></i>            <!-- Mật khẩu -->
+<i class="fas fa-graduation-cap"></i>  <!-- Khoa -->
+
+<i class="fas fa-map-marker-alt"></i>  <!-- Địa chỉ -->
+<i class="fas fa-school"></i>          <!-- Trường học (search) -->
+
+<i class="fas fa-camera"></i>          <!-- Hình ảnh -->
+<i class="fas fa-images"></i>          <!-- Gallery -->
+<i class="fas fa-eye"></i>             <!-- Xem báo cáo -->
+
+<i class="fas fa-clock"></i>           <!-- Thời gian -->
+<i class="fas fa-calendar-check"></i>  <!-- Hoàn thành -->
+
+<i class="fas fa-tree"></i>            <!-- Dự án -->
+<i class="fas fa-leaf"></i>            <!-- Dự án -->
+<i class="fas fa-school"></i>          <!-- Dự án -->
+<i class="fas fa-money-bill-wave"></i> <!-- Quyên góp -->
+<i class="fas fa-seedling"></i>        <!-- Cây giống -->
+<i class="fas fa-hands-helping"></i>   <!-- Tình nguyện -->
+<i class="fas fa-chart-line"></i>      <!-- Minh bạch -->
+<i class="fas fa-chart-bar"></i>       <!-- Tiến độ -->
+
+<i class="fas fa-check-circle"></i>    <!-- Thành công -->
+<i class="fas fa-times-circle"></i>    <!-- Lỗi -->
+<i class="fas fa-exclamation-circle"></i> <!-- Cảnh báo -->
+<i class="fas fa-info-circle"></i>     <!-- Thông tin -->
+<i class="fas fa-spinner fa-spin"></i> <!-- Loading -->
+<i class="fas fa-spinner"></i>         <!-- Spinner -->
+
+<i class="fas fa-times"></i>           <!-- Đóng/Thoát -->
+
+<i class="fas fa-paper-plane"></i>     <!-- Gửi thông tin -->
+
+<i class="fas fa-users"></i>           <!-- Nhóm người -->
+<i class="fas fa-user-friends"></i>    <!-- Thành viên -->
+
+<i class="fas fa-clipboard-check"></i> <!-- Giám sát -->
+<i class="fas fa-bullhorn"></i>        <!-- Truyền thông -->
+
+<i class="fas fa-bullseye"></i>        <!-- Mục tiêu -->
+
+<i class="fas fa-university"></i>      <!-- Ngân hàng -->
+<i class="fas fa-bank"></i>            <!-- Chọn ngân hàng -->
+
+<i class="fab fa-facebook-f"></i>      <!-- Facebook -->
+<i class="fab fa-instagram"></i>       <!-- Instagram -->
+<i class="fab fa-twitter"></i>         <!-- Twitter -->
+<i class="fab fa-youtube"></i>         <!-- YouTube -->
+
+<i class="fab fa-google"></i>          <!-- Google login -->
+<i class="fab fa-facebook-f"></i>      <!-- Facebook login -->
+
